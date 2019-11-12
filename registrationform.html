@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+    <ul id="list4a" style=list-style-type:none>
+       <li><a class="blue" href=index.html> Home </a></li>
+       <li><a class="blue"   href=aboutnysl.html>About NYSL</a> </li>
+       <li><a  href=contact.html>Contact</a></li>
+       <li><a class="blue" href="gameinfo.html">GameInfo</a></li>
+       <li><a class="blue" href="rules.html">Rules</a></li>
+       <li><a id="green" href="registrationform.html">Registration</a></li>
+        </ul>
+<h1 id="h1reg">Registration Form</h1>
+  <form action="showdata.html" method="GET">
+    <fieldset>
+    <label>
+        Player's First Name
+            <input  class="lines" type="text" name="Player’s First Name">
+            Last Name:
+            <input   class="lines" type="text" name="Last Name">
+    </label>
+    </fieldset>
+    <fieldset>
+    <label id="label1" >
+      Street Address:
+         <input id="width" class="lines" type="text" name="Street Address">
+    </label>
+    </fieldset>
+    <fieldset>
+    <label>
+        City:
+        <input id="width1" class="lines" type="text" name="City">
+        Zip Code:
+        <input id="width2" class="lines" type="text" name="Zip Code">
+    </label>
+    </fieldset>
+    <fieldset>
+        <label>
+            Birth Date(dd/mm/yyyy):
+            <input id="width3" class="lines" type="text" name="Birth Date">
+        </label>
+        <label>
+            Gender:
+            <input type="checkbox" name="Female">Female
+            <input type="checkbox" name="Male">Male
+        </label>
+    </fieldset>
+    <fieldset>
+        Grade:
+        <input type="checkbox" name="Pre-School">Pre-School
+        <input type="checkbox" name="1st">1st
+        <input type="checkbox" name="2nd">2nd
+        <input type="checkbox" name="3rd">3rd
+        <input type="checkbox" name="4th">4th
+        <input type="checkbox" name="5th">5th
+    </fieldset>
+    <fieldset>
+    <label>
+        Parent/Guardian 
+        <input id="width4" class="lines" type="text" name="Parent/Guardian">
+    </label>
+    </fieldset>
+    <fieldset>
+        Contact Phone:
+        <input id="width5" class="lines" type="p-hone" name="ContactPhone">
+        Contact Email:
+        <input id="width6" class="lines" type="email" name="ContactEmail">
+        <br>
+        <input id="submit" type="submit" name="submit" value="submit">
+        </fieldset>
+        <h3>Which elementary schools do you live near?</h3>
+        <h4>First Closest School:</h4>
+        <select id="firstschool" name="First School">
+            
+                <option value="AJ Katzenmaier" selected>AJ Katzenmaier</option>
+                <option value="Marjorie P Hart" >Marjorie P Hart</option>
+                <option value="Greenbay" >Greenbay</option>
+                <option value="North Elementary" >North Elementary</option>
+                <option value="Howard A Yeager" >Howard A Yeager</option>
+                <option value="South Elementary" >South Elementary</option>
+        </select>
+        <fieldset id="fieldset2">
+        <h4 id="position1">Second Closest School:</h4>
+        <label ></label>
+            <select id="position2" name="Second School">
+                    <option value="AJ Katzenmaier" selected>AJ Katzenmaier</option>
+                    <option value="Marjorie P Hart" >Marjorie P Hart</option>
+                    <option value="Greenbay" >Greenbay</option>
+                    <option value="North Elementary" >North Elementary</option>
+                    <option value="Howard A Yeager" >Howard A Yeager</option>
+                    <option value="South Elementary" >South Elementary</option>
+             </select>
+         </fieldset>
+    <fieldset>
+        <label id="position3">
+            <p><strong>What position(s) do you normally play?</strong>(check all that apply)</p>
+            <label id="position4">
+            <input type="checkbox"name="Forward">Forward
+            <input type="checkbox"name="Midfield">Midfield
+            <br>
+            <input type="checkbox"name="Defense">Defense
+            <input type="checkbox"name="Goalkeeper">Goalkeeper
+            </label>
+            </label>
+    </fieldset>
+    <fieldset id="position6">
+        <input type="checkbox" name="Already Have a Uniform"><strong>Already Have a Uniform</strong>
+    </fieldset>
+    <fieldset id="position5">
+        <h4>Jersey Size:</h4>
+        <input type="checkbox"name="Youth Small">Youth Small
+        <input type="checkbox"name="Medium">Medium
+        <br>
+        <input type="checkbox"name="Youth Medium">Youth Medium
+        <input type="checkbox"name="Large">Large
+        <br>
+        <input type="checkbox"name="Youth Large">Youth Large
+        <input type="checkbox"name="Extra-Large">Extra-Large
+        <br>
+        <input type="checkbox"name="Small">Small
+    </fieldset>
+    <fieldset id="fieldset3">
+        <h4>Shorts Size:</h4>
+        <input type="checkbox" name="Youth Small">Youth Small
+        <input type="checkbox" name="Medium">Medium
+        <br>
+        <input type="checkbox" name="Youth Medium">Youth Medium
+        <input type="checkbox" name="Large">Large
+        <br>
+        <input type="checkbox" name="Youth Large">Youth Large
+        <input type="checkbox" name="Extra-Large">Extra-Large
+        <br>
+        <input type="checkbox" name="Small">Small
+</fieldset>
+<br>
+<br>
+    <h3 id="permission">Permission To Play</h3>
+    <p class="moveparagraph">I, the parent or guardian of the minor registrant, agree that the registrant and I will abide by all the rules of the Northside Youth
+            Soccer League (NYSL). In recognizing the possibility of physical injury associated with soccer and in consideration for the “League”
+            accepting the registrant for its soccer programs and activities, I hereby release, discharge, and/or otherwise indemnify NYSL, their
+            employees and associated personnel and volunteers, including the facilities used for practices and games, against any claim by or
+            on behalf of the registrant as a result of the registrant’s participation in the program and/or being transported to or from NYSL
+            sponsored activities, which transportation.</p>
+            <br>
+            <p class="moveparagraph">By signing below, I hereby agree and authorize the above. In addition, by signing below, I also acknowledge that I have read the
+                    cancellation policy and agree to its terms.</p>
+                    <fieldset>
+                        <label id="lastboxes">
+                                Parent/Guardian Signature:
+                    <input   class="lines"type="text" name="Parent/Guardian Signature">
+                    Date:
+                    <input  class="lines" type="text" name="Date">
+                </label>
+                    
+                </fieldset>
+            </form>
+                    
+
+    
+
+
+
+</body>
+
+</html>
+      

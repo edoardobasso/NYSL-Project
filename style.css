@@ -1,0 +1,865 @@
+.header{
+ background-image: url("https://activeforlife.com/content/uploads/2013/03/U12-playing-soccer.jpg");
+ height:250px;
+ background-repeat: no-repeat;
+ background-size: cover ;
+ color:white;
+ position:relative;
+
+ }
+
+body{
+    height:70vh;
+}
+
+#subtitle{
+    color:white;
+    border-style:solid;
+    border-color:greenyellow;
+}
+
+#logo{
+      float:left;
+      width:220px;
+      height:220px;
+ }
+
+#logo2{
+     width:200px;
+     height:200px;
+     margin-top:50px;
+
+}
+
+.date{
+    margin-left: 300px;
+
+}
+
+#div{
+    float:center;
+
+}
+
+
+#contain{
+    width:100%;
+
+}
+
+#seas{
+    margin-bottom: 50px;
+}
+
+#ag4{
+    margin-top:40px;
+    color:greenyellow;
+}
+
+#title{
+    position: relative;
+    top:-48px;
+    color:white;
+    border-style: solid;
+    border-color:greenyellow;
+}
+
+body{
+    margin-top:50px;
+    background-image: url(https://i.pinimg.com/originals/a1/09/70/a1097066e9489d20fb2481a40642b227.jpg);
+}
+
+ul{
+    float: right;
+    text-align:center;
+    display:inline-flex;
+}
+
+li{
+    margin-right:10px;
+    border-style:solid;
+    border-color:black;
+}
+
+p{
+    color:white;
+}
+
+a{
+    color:#ffffff;
+}
+
+#green{
+   background-color:greenyellow;
+   color:darkblue;
+    padding:3px;
+
+}
+
+.class{
+    background-color:darkblue;
+}
+
+.bold{
+    font-weight:bold;
+    margin-left:300px;
+    color:greenyellow;
+
+
+}
+
+#list li{
+    box-shadow:3px 4px 0px 2px;
+
+}
+
+
+
+h1{
+    float:middle;
+    color:white;
+
+}
+
+
+body{
+    margin-top:30px;
+    background-image: url(https://i.pinimg.com/originals/a1/09/70/a1097066e9489d20fb2481a40642b227.jpg);
+    margin:50px;
+
+}
+
+
+
+
+#titles{
+    position: relative;
+    bottom:50px;
+    border-style: solid;
+    border-color:greenyellow;
+
+
+}
+
+#logo{
+    float:left;
+    width:200px;
+    height:200px;
+    margin-right:150px;
+    top:50px;
+}
+
+#hit{
+    color:white;
+    border-style:solid;
+    border-color:greenyellow;
+
+}
+
+li{
+    float:"right";
+}
+
+#div2{
+    width: 90%;
+    height:50%;
+    margin-bottom:10px;
+
+}
+
+#div3{
+    width: 90%;
+    height:50%;
+    margin-bottom:10px;
+    right: 60px;
+    bottom: 450px;
+}
+
+.container{
+    width: 50%;
+    height: 400px;
+    padding: 10px;
+    bottom:10px;
+}
+
+#list2{
+    float:right;
+    bottom:300px;
+    display:inline-f;
+    margin-right:10px;
+    top: -27px;
+
+}
+
+#list{
+
+    display:inline-flex;
+    pos
+    top: -300px;
+    right: 6px;
+}
+
+#green{
+    box-shadow:3px 4px 0px 2px #000000;
+    background-color:greenyellow;
+    top: -24px;
+    border-style:solid;
+    border-color:black;
+    border-width:3px;
+}
+
+
+
+.blue{
+     box-shadow: #000000;
+     color: white;
+
+}
+
+#mission{
+   color:greenyellow;
+        right: 185px;
+    position: relative;
+    top:25px;
+}
+
+#viss{
+    color:greenyellow;
+    margin-left:10px;
+    right: -93px;
+    top:40px;
+    right:210px
+}
+
+#general{
+    color:greenyellow;
+    top: -3px;
+    right:205px;
+
+}
+
+p{
+    color:white;
+}
+
+#par{
+    right:-342px;
+    top:203px;
+
+
+}
+
+#par2{
+    top: -76px;
+    right:-340px;
+}
+
+.color{
+
+    color: #000;
+    border-style:solid;
+    border-color:greenyellow;
+    color:white;
+
+}
+.banner{
+    background-image: url("https://activeforlife.com/content/uploads/2013/03/U12-playing-soccer.jpg");
+    height: 310px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+body{
+    padding:20px;
+    background-image: url(https://i.pinimg.com/originals/a1/09/70/a1097066e9489d20fb2481a40642b227.jpg);
+}
+
+#up{
+    border-style:solid;
+    color:white;
+    border-color:greenyellow;
+    height:80px;
+    position:relative;
+    top:
+}
+
+
+.mike{
+    width: 150px;
+    height:150px;
+    float:left;
+    position: relative;
+    bottom:130px;
+
+}
+
+#link{
+    position:relative;
+    top:100px;
+}
+#link10{
+    position:relative;
+    top:100px;
+    background-color: none;
+}
+
+.container{
+    width:500px;
+    height:100px;
+    position:relative;
+    right:-50px;
+    top:-200px;
+
+}
+
+.titl{
+    position:relative;
+    top:100px;
+    float:left;
+    margin-left:100px;
+
+}
+
+#ab{
+    box-shadow:3px 4px 0px 2px #000000;
+    border-style:solid;
+    color:white;
+    border-color:black;
+
+}
+
+#co{
+    box-shadow:3px 4px 0px 2px #000000;
+    border-style:solid;
+    color:white;
+    border-color:black;
+}
+#ho{
+    box-shadow:3px 4px 0px 2px #000000;
+    border-style:solid;
+    color:darkblue;
+    background-color:greenyellow;
+    border-color:black;
+    padding:3px;
+}
+
+.aligned{
+    float:right;
+    position:relative;
+    left:1200px;
+    bottom:500px;
+}
+
+#list4{
+    display:flex;
+    width:1000px;
+    padding: 133px;
+    margin:20px;
+    list-style: none;
+    flex-flow: wrap;
+    justify-content: space-around;
+    
+    
+
+}
+
+#lastpar{
+    position:relative;
+    top: -450px;
+    right:-70px;
+}
+
+
+.container p a{
+    color:white;
+}
+
+.paraf{
+    font-style:oblique;
+    margin-left:108px;
+    color:white;
+ 
+}
+.underlined {
+            text-decoration:underline;
+            font-size:20px;
+            font-weight: bold;
+            
+            
+}
+
+
+#titless{
+      position: relative;
+    right: -472px;
+      
+}
+
+td{
+    text-align: center;
+}
+
+.justbold{
+    font-weight: bold;
+    font-size:21px;
+}
+
+#container{
+           width:100%;
+           
+}
+
+
+.marginn{
+    display: inline-block;
+    
+}
+
+#justthis{
+         margin-left:130px;
+         font-size:18px;
+          
+}
+
+.inlined{
+         display: inline;
+         
+}
+
+#spaced{
+        margin-left:550px;
+}
+
+#phone{
+       margin-left:130px;
+}
+
+#email{
+       margin-left:200px;
+}
+
+thead{
+    color:white;
+}
+tbody{
+    color:white;
+}
+
+body{
+        font-size:18px;
+}
+
+
+.letterrul{
+        list-style-type:lower-latin;
+}
+
+.numberrul{
+        list-style-type:decimal;
+}
+
+#listrul{
+    list-style-type:circle;
+}
+
+#teamrul{
+    margin:0px 40px;
+}
+
+#containerrul{
+    width:570px;
+    margin-left:450px;
+    color:white;
+
+}
+
+.centerrul{
+    text-align:center;
+        
+}
+
+#list4a{
+    width: 1000px;
+     display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+#list4b{
+     width: 800px;
+     display: flex;
+    justify-content: space-around;
+}
+ul {
+    
+}
+#rulpar{
+    font-weight:bold;
+    color:white;
+    display: hide;
+}
+
+.lirul{
+    border:0px;
+}
+
+#firstul{
+    position:relative;
+    right:50px;
+    top:3px;
+    width:500px;
+    display: contents;
+    text-align: left;
+}
+
+#secondul{
+    position: relative;
+    top: -30px;
+    width: 600px;
+    display: table;
+    text-align: left;
+    left: 70px;
+    text-align: left;
+}
+
+#thirdrul{
+    position:relative;
+    display: contents;
+    text-align: left;
+}
+
+#fourthrul{
+    margin-bottom:6px;
+    position: relative;
+    right:30px;
+    display:block;
+    text-align: left;
+}
+
+#equip{
+    position: relative;
+    top:-7px;
+        
+}
+
+#fifthrul{
+    position:relative;
+    top:20px;
+    text-align: center;
+    display: contents;
+    text-align: left;
+}
+
+#sixthrul{
+    position: relative;
+    text-align: left;
+}
+
+#subs{
+    position:relative;
+    top: -12px;
+}
+
+#seventhrul{
+    display:flow-root;
+    text-align: left;
+   
+
+}
+
+#allplay{
+    position: relative;
+    top:-15px;
+}
+
+#playersrul{
+    position: relative;
+    top:-15px;
+}
+
+#mixrul{
+    position: relative;
+    top:-15px;
+}
+
+#coaching{
+    position: relative;
+    top:-10px;
+}
+
+#eighthrul{
+    display:contents;
+    text-align: left;
+}
+
+#gamerul{
+    position: relative;
+    top: -10px;
+}
+
+#condrul{
+    position: relative;
+    top:-10px;
+}
+
+#ninthrul{
+    display: block;
+    text-align: left;
+    
+}
+
+#tenthrul{
+    display: block;
+    text-align: left;
+}
+
+#sportli{
+    position: relative;
+    top:10px;
+}
+
+#h1reg{
+    width:1500px;
+    margin-left:550px;
+}
+
+form{
+    width:1000px;
+    margin-left:300px;
+}
+
+fieldset{
+    border-style:solid;
+    border-width:0px;
+    color: white;
+}
+#width0{
+    margin-left:20px;
+}
+
+#width{
+    width:710px;
+}
+
+#width1{
+    width:400px;
+}
+
+#label1{
+    margin-left:px;
+
+}
+
+.lines{
+    border: none;
+    border-bottom: 1px solid gray;
+    width:300px;
+    
+}
+
+#width2{
+    width:305px;
+}
+
+#width4{
+    width:720px;
+}
+
+#width6{
+    width:323px;
+}
+
+#container1{
+       width:600px;
+       margin-right:400px;
+}
+
+#fieldset1{
+    width:600px;
+    margin-left:-15px;
+}
+
+#shifted{
+    margin-left:30px;
+}
+
+#position1{
+    position: absolute;
+    top: 537px;
+    right: 397px;
+}
+
+
+#position2{
+    position: absolute;
+    top: 565px;
+    right: 425px;
+}
+
+#position3{
+         position: absolute;
+         top: 618px;
+}
+
+#position5{
+    position:relative;
+    top: 48px;
+}
+
+#position6{
+    position: relative;
+    top: 237px;
+    
+}
+
+
+#fieldset3{
+    position:relative;
+    right: -470px;
+    top: -108px;
+}
+
+#permission{
+    position:relative;
+    top:-100px;
+    text-decoration:underline;
+    font-size:120%;
+    color:white;
+}
+
+.moveparagraph{
+    position: relative;
+    top:-95px;
+}
+
+#lastboxes{
+    position: relative;
+    top: -40px;
+
+}
+
+#submit{
+    margin-left:790px;
+    color:#050450;
+}
+
+input{
+    color: #050450;
+}
+
+label{
+    color: white;
+}
+
+h3{
+    color:white;
+}
+
+
+h4{
+    color:white;
+    position: relative;
+    right: -12px;
+}
+
+#firstschool{
+    position: absolute;
+    right:440px;
+    top:614px;
+}
+
+.mapstitles{
+    position: relative;
+    left: 603px;
+    top: 236px;
+}
+
+#bodydata{
+    background-image:url(https://i.pinimg.com/originals/a1/09/70/a1097066e9489d20fb2481a40642b227.jpg)
+}
+
+#tabledata{
+    border-style:solid;
+    position: relative;
+    top: -192px;
+}
+
+#imgdata{
+    height:200px;
+    width:200px;
+}
+
+#list5{
+     display:inline-flex;
+     position: relative;
+    top: -130px;
+    right: 336px;
+}
+
+#link20{
+    position: relative;
+    
+}
+
+.flex-container{
+    width:90%;
+    padding: 5px;
+    margin:10px;
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    
+    
+    
+}
+.flex-item{
+    padding: 4px;
+    font-weight:bold;
+}
+
+.containerhome{
+    height:50%;
+    width:80%;
+    display: flex;
+    flex-flow:wrap row-reverse;
+}
+
+.containerabout{
+    display: flex;
+    flex-flow:wrap row;
+    justify-content:space-around;
+    
+    
+}
+
+.flex-container2{
+    width:100%;
+    list-style: none;
+    display: flex;
+    align-content: flex-start;
+    justify-content: space-around;
+    
+    
+}
+
+#flexbox3{
+    display:flex;
+    width:90%;
+    padding: 5px;
+    margin:20px;
+    list-style: none;
+    flex-flow: wrap;
+    justify-content: space-around;
+    
+    
+}
+
+#contmove{
+    position: relative;
+    top:-285px;
+    right:-350px
+}
