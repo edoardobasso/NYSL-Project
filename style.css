@@ -695,7 +695,7 @@ fieldset{
 
 #position2{
     position: absolute;
-    top: 614px;
+    top: 614spx;
     right: 425px;
 }
 
@@ -766,9 +766,8 @@ h4{
 }
 
 #firstschool{
-    position: absolute;
-    right:835px;
-    top:614px;
+    margin-top:
+   
 }
 
 .mapstitles{
